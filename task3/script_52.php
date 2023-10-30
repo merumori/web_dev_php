@@ -1,6 +1,6 @@
 <?php
 //// Script 52 Merging an associative array using the array_merge() function.
-$array1= array("N"=>"Mahesh",
+$array1= array("N"=>"mori",
                 "A"=>21,
                 "c"=>"MCA");
 $array2 =array("Name"=>"Meru",
